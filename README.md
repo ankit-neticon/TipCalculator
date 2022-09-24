@@ -1,5 +1,4 @@
 # TipCalculatorApp
-====================
 With the help of this app we can calculate per person tip to pay at restaurant.
 
 
